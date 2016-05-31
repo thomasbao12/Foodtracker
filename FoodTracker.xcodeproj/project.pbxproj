@@ -13,6 +13,7 @@
 		A71B0A431CFD50E10044F41A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A71B0A421CFD50E10044F41A /* Assets.xcassets */; };
 		A71B0A461CFD50E10044F41A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A71B0A441CFD50E10044F41A /* LaunchScreen.storyboard */; };
 		A71B0A511CFD50E10044F41A /* FoodTrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71B0A501CFD50E10044F41A /* FoodTrackerTests.swift */; };
+		A71B0A5C1CFD65F40044F41A /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = A71B0A5B1CFD65F40044F41A /* RatingControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		A71B0A4C1CFD50E10044F41A /* FoodTrackerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FoodTrackerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A71B0A501CFD50E10044F41A /* FoodTrackerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTrackerTests.swift; sourceTree = "<group>"; };
 		A71B0A521CFD50E10044F41A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A71B0A5B1CFD65F40044F41A /* RatingControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				A71B0A3D1CFD50E10044F41A /* ViewController.swift */,
 				A71B0A3F1CFD50E10044F41A /* Main.storyboard */,
 				A71B0A421CFD50E10044F41A /* Assets.xcassets */,
+				A71B0A5B1CFD65F40044F41A /* RatingControl.swift */,
 				A71B0A441CFD50E10044F41A /* LaunchScreen.storyboard */,
 				A71B0A471CFD50E10044F41A /* Info.plist */,
 			);
@@ -198,6 +201,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A71B0A3E1CFD50E10044F41A /* ViewController.swift in Sources */,
+				A71B0A5C1CFD65F40044F41A /* RatingControl.swift in Sources */,
 				A71B0A3C1CFD50E10044F41A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
